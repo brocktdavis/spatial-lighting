@@ -1,1 +1,1 @@
-# spatial-lighting
+# Spatial Lighting Engine
