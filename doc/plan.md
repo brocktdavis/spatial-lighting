@@ -1,11 +1,12 @@
 # Plan
 
 ## Overall
- - [ ] Get tesable (e.g. viewable in browser)
+ - [X] Get tesable (e.g. viewable in browser)
 
 ## Input
 
 ## Engine
 
 ## Display
- - [ ] Setup camera, scene, initial geometry
+ - [X] Setup camera, scene, initial geometry
+ - [ ] Modularize code for scene & geometry
