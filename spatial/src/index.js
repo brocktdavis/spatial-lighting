@@ -1,8 +1,6 @@
-import { createRoot } from 'react-dom/client';
-import Scene from './Scene';
-import './index.css';
+import "./index.css";
+import React from "react";
+import Scene from "./Scene";
+import {createRoot} from "react-dom/client";
 
-createRoot(document.getElementById('root')).render(
-    <Scene />
-)
-
+createRoot(document.getElementById("root")).render(<Scene />);
